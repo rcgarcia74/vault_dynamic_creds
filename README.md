@@ -1,2 +1,2 @@
 # vault_dynamic_creds
-Using Vault to provision database credentials dynsmically
+Using Vault to provision database credentials dynamically
